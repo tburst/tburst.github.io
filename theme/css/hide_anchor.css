@@ -1,0 +1,33 @@
+a.anchor-link {
+	visibility: hidden
+}
+
+h1  {
+	margin: 2.286em 0 0.35em;
+}
+
+h2  {
+	margin: 2.286em 0 0.35em;
+}
+
+h3  {
+	margin: 2em 0 0.35em;
+}
+
+.inner {
+	max-width: 40em;
+}
+
+pre {
+	overflow: auto;
+}
+
+.post-content img, .post-content .fluid-width-video-wrapper {
+    max-width: 100%; 
+    margin-left: 0; 
+}
+
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    visibility: visible;
+}
